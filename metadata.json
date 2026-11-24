@@ -1,0 +1,6 @@
+{
+  "name": "Project Rebirth",
+  "description": "High-FPS mobile-first 3D tactical arena shooter inspired by Project Rebirth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
